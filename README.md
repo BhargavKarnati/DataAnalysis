@@ -43,6 +43,9 @@ This project analyzes user behavior, cooking preferences, and order trends to de
 
 ![Top 10 Popular Dishes](visualizations\popular_dishes.png)
 
+![image](https://github.com/user-attachments/assets/9029f804-e43d-4702-bd29-b0fed34d1b01)
+
+
 - **Spaghetti** is the most ordered dish, followed by **Caesar Salad**.
 - High popularity indicates these dishes could be featured more prominently in marketing campaigns.
 
