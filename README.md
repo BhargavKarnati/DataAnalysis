@@ -53,16 +53,23 @@ This project analyzes user behavior, cooking preferences, and order trends to de
 
 ![Order Trends Over Time](visualizations\order_trends.png)
 
+![image](https://github.com/user-attachments/assets/4093160c-8461-47c6-8d77-6aa40c2b324a)
+
+
 
 
 ### **3. Demographic Influences**
 
 ![Correlation Heatmap](visualizations\correlation_heatmap.png)
 
+![image](https://github.com/user-attachments/assets/8b16227b-779d-46cd-88d5-a3cac9c0676c)
+
 - **Age** shows a moderate positive correlation with **Amount (USD)**, indicating older users spend more per order.
 - **Rating** is positively correlated with **Amount (USD)**, suggesting higher spending is associated with better experiences.
 
 ![User Age vs. Average Order Amount](visualizations\age_vs_order_amount.png)
+![image](https://github.com/user-attachments/assets/4f49f3f0-6e1e-41a2-9002-f1fcccff4362)
+
 
 - Users aged **31-40** and **41-50** have the highest average order amounts.
 - **Favorite Meal** categories influence spending patterns, with **Dinner** being the most lucrative.
@@ -70,6 +77,9 @@ This project analyzes user behavior, cooking preferences, and order trends to de
 ### **4. Order Status Distribution**
 
 ![Order Status Distribution](visualizations\order_status_distribution.png)
+
+![image](https://github.com/user-attachments/assets/9bfd5284-2e84-44ae-b15d-254e65ed427f)
+
 
 - **Completed** orders constitute the majority (e.g., 90%), while **Canceled** orders are minimal.
 - Low cancellation rate indicates effective order fulfillment processes.
